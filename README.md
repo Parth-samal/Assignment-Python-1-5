@@ -1,1 +1,1 @@
-# Python-Assignments- Part Of Data Science Assignments(1-5)
+# Python-Assignments- Part Of Data Science Assignments of Python(1-5)
